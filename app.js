@@ -51,9 +51,7 @@ function apagar(id){
     })
 }
 
-apagar(44)
 
-selecionaTudo()
 
 //inserir("Angelorei","1234","Angelorei@gmail.com")
 
