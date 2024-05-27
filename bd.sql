@@ -8,3 +8,6 @@ create table usuario(
     email varchar(120) null,
     primary key(id)
 )
+
+use bob;
+select * from usuario;
